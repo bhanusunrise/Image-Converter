@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
           </p>
           <div className="flex items-center mt-4 md:mt-0 text-sm text-gray-500">
             <span className="flex items-center">
-              Made with <Heart className="h-4 w-4 text-red-500 mx-1" /> using React & TypeScript
+              Made with <Heart className="h-4 w-4 text-red-500 mx-1" /> using React & TypeScript by Pasindu Bhanuka - IM/2020/108
             </span>
           </div>
         </div>
